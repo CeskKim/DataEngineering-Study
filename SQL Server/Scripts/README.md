@@ -1,3 +1,3 @@
-## 소개
-- SQL Server Scripts 모음
-
+#  Scripts
+## 소개 
+- SQL Sever Scripts 모음
