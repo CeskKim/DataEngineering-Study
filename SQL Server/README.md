@@ -7,4 +7,3 @@
 - [Recover&BackUp] : 복원 및 백업
 - [Scripts] : 검증 관련 스크립트
 - [Tuning] : 튜닝
-- [Monitoring] : 모니터링
