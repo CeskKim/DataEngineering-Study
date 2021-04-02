@@ -25,7 +25,7 @@ def SQLConnection():
     return conn
 
 # ###################################################
-# _Mail_Currency_H 결과 값
+# SP 결과 값
 # ###################################################
 def SQLResultData():
 
@@ -53,7 +53,7 @@ def SQLResultData():
         SQLConn.close()
                  
 # ###################################################
-# Mail_Currency_H_Event 결과값
+# SP Detail 결과값
 # ###################################################
 def SQLResultDetailData(UseName, CurrencyName):
     
