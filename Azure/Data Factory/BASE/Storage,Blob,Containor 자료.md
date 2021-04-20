@@ -3,3 +3,6 @@
 
 ## Blob 생성 참조
 - https://docs.microsoft.com/ko-kr/azure/storage/blobs/storage-quickstart-blobs-portal
+
+## Python 이용 Blob 데이터 업로드 참조
+- https://docs.microsoft.com/ko-kr/azure/batch/tutorial-run-python-batch-azure-data-factory
